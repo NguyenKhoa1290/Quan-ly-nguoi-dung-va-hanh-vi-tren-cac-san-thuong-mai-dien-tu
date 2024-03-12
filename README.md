@@ -17,4 +17,5 @@ Thành viên trong nhóm:
    3. Bảng các mặt hàng đã mua
    4. Đổi lược đồ ER sang lược đồ quan hệ. Tham khảo: https://www.youtube.com/watch?v=RxN08oNgOwo
    5. Nối file và powerpoint (Cái này t sẽ làm)
+   
    Vote Qua nhóm t sẽ tạo
